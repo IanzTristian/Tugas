@@ -1,0 +1,6 @@
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\bin\Debug\DemoImplicitVsExplicitConvertion.exe.config
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\bin\Debug\DemoImplicitVsExplicitConvertion.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\bin\Debug\DemoImplicitVsExplicitConvertion.pdb
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\obj\Debug\DemoImplicitVsExplicitConvertion.csprojResolveAssemblyReference.cache
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\obj\Debug\DemoImplicitVsExplicitConvertion.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoImplicitVsExplicitConvertion\DemoImplicitVsExplicitConvertion\obj\Debug\DemoImplicitVsExplicitConvertion.pdb

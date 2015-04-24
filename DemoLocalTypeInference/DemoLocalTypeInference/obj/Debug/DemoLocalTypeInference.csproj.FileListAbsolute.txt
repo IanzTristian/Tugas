@@ -1,0 +1,6 @@
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.exe.config
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.csprojResolveAssemblyReference.cache
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.pdb
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.pdb

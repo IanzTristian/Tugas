@@ -1,0 +1,6 @@
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\bin\Debug\DemoModulus.exe.config
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\bin\Debug\DemoModulus.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\bin\Debug\DemoModulus.pdb
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\obj\Debug\DemoModulus.csprojResolveAssemblyReference.cache
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\obj\Debug\DemoModulus.exe
+c:\users\ianz\documents\visual studio 2013\Projects\DemoModulus\DemoModulus\obj\Debug\DemoModulus.pdb

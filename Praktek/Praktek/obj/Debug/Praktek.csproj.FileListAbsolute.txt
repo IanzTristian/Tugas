@@ -1,0 +1,6 @@
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\bin\Debug\Praktek.exe.config
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\bin\Debug\Praktek.exe
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\bin\Debug\Praktek.pdb
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\obj\Debug\Praktek.csprojResolveAssemblyReference.cache
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\obj\Debug\Praktek.exe
+c:\users\ianz\documents\visual studio 2013\Projects\Praktek\Praktek\obj\Debug\Praktek.pdb
